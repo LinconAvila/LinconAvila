@@ -35,7 +35,7 @@
              
 ## Studying in this moment:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lincon-js" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
+  <img align="center" alt="Lincon-c#" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
   
 <div align="center">
 <div align="center">
