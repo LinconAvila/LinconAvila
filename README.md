@@ -32,7 +32,7 @@
 ## Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Lincon-git" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-  <img align="center" alt="Lincon-github" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
+  <img align="center" alt="Lincon-github" height="50" width="50"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"/>
   <img align="center" alt="Lincon-vscode" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
              
 ## Studying in this moment:
