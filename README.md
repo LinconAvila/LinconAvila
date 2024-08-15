@@ -26,6 +26,8 @@
  <img align="center" alt="Lincon-c" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
  <img align="center" alt="Lincon-html" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
  <img align="center" alt="Lincon-css" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+ <img align="center" alt="Lincon-css" height="50" width="50"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg"/>
+ 
  
 ## Tools:
 <div style="display: inline_block"><br>
@@ -35,8 +37,10 @@
              
 ## Studying in this moment:
 <div style="display: inline_block"><br>
+<img align="center" alt="Lincon-git" height="60" width="60"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
+
   
-  
+
 <div align="center">
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
