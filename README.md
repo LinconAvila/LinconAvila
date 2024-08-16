@@ -37,10 +37,8 @@
              
 ## Studying in this moment:
 <div style="display: inline_block"><br>
-<img align="center" alt="Lincon-git" height="60" width="60"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
-
-  
-
+  <img align="center" alt="Lincon-git" height="60" width="60"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
+  <img align="center" alt="Lincon-git" height="60" width="60"<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
 <div align="center">
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
