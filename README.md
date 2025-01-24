@@ -24,6 +24,7 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="Lincon-python" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
  <img align="center" alt="Lincon-c" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
+<img align="center" alt="Lincon-R" height="50" width="50"<img src="https://camo.githubusercontent.com/c63a38bafef05c24a2f9f031c9f4a614595b016732a848a862a7d16be4b2255e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f722f722d6f726967696e616c2e737667"/>
  <img align="center" alt="Lincon-html" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
  <img align="center" alt="Lincon-css" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
  
