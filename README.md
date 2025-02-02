@@ -22,23 +22,27 @@
  
 ## Main skills:
 <div style="display: inline_block"><br>
- <img align="center" alt="Lincon-python" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
- <img align="center" alt="Lincon-c" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
-<img align="center" alt="Lincon-R" height="50" width="50"<img src="https://camo.githubusercontent.com/c63a38bafef05c24a2f9f031c9f4a614595b016732a848a862a7d16be4b2255e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f722f722d6f726967696e616c2e737667"/>
- <img align="center" alt="Lincon-html" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
- <img align="center" alt="Lincon-css" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+ <img align="center" alt="python" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
+ <img align="center" alt="c" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
+<img align="center" alt="R" height="50" width="50"<img src="https://camo.githubusercontent.com/c63a38bafef05c24a2f9f031c9f4a614595b016732a848a862a7d16be4b2255e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f722f722d6f726967696e616c2e737667"/>
+ <img align="center" alt="html" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
+ <img align="center" alt="css" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+ <img align="center" alt="SQL Server" height="50" width="50" src="https://gist.githubusercontent.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f/raw/sql-server-icon.svg"/>
  
  
 ## Tools:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lincon-git" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-  <img align="center" alt="Lincon-github" height="50" width="50"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"/>
-  <img align="center" alt="Lincon-vscode" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
+  <img align="center" alt="git" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+  <img align="center" alt="github" height="50" width="50"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"/>
+  <img align="center" alt="Visual Studio" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio/visual-studio.png"/>
+  <img align="center" alt="vscode" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
              
 ## Studying in this moment:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lincon-git" height="60" width="60"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
-  <img align="center" alt="Lincon-git" height="60" width="60"<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
+  <img align="center" alt="csharp" height="60" width="60"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
+  <img align="center" alt="mysql" height="60" width="60"<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
+  <img align="center" alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+
 <div align="center">
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
