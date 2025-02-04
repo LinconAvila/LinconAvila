@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6BB1E5&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6BB1E5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lincon+Avila+de+Souza;I'm+19+years+old;I+am+from+Rio+Grande+do+Sul,+Brasil;I+study+Computer+Engineering+at+FURG;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6BB1E5&size=35&center=true&vCenter=true&width=1000&lines=What's+up,+I'm+Lincon+Avila+de+Souza;I'm+19+years+old;I+am+from+Brasil;I+study+Computer+Engineering+at+FURG;Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -37,7 +37,7 @@
   <img align="center" alt="Visual Studio" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio/visual-studio.png"/>
   <img align="center" alt="vscode" height="50" width="50"<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
              
-## Studying in this moment:
+## Studying at the moment:
 <div style="display: inline_block"><br>
   <img align="center" alt="csharp" height="60" width="60"<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
   <img align="center" alt="mysql" height="60" width="60"<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
