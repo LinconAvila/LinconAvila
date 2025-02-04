@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6BB1E5&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6BB1E5&size=35&center=true&vCenter=true&width=1000&lines=What's+up,+I'm+Lincon+Avila+de+Souza;I'm+19+years+old;I+am+from+Brasil;I+study+Computer+Engineering+at+FURG;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6BB1E5&size=35&center=true&vCenter=true&width=1000&lines=What's+up,+I'm+Lincon+Avila+de+Souza;I'm+19+years+old;I+am+from+Brazil;I+study+Computer+Engineering+at+FURG;Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -9,10 +9,6 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LinconAvila&bg_color=000000&color=6bb1e5&line=6bb1e5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LinconAvila&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
 <a href="https://www.instagram.com/lincon_avila" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
