@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 3 * * *"  
-  workflow_dispatch:  
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -16,15 +16,17 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: LinconAvila
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          svg_path: github-snake.svg
+          dark_svg_path: github-snake-dark.svg
+          generate_dark_variant: true
 
       - name: Commit e Push das Mudanças
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/github-snake.svg dist/github-snake-dark.svg
+          git checkout --orphan output
+          git reset --hard
+          git add -f *.svg
           git commit -m "Atualizando a animação Snake"
-          git push
+          git push origin output --force
         continue-on-error: true
