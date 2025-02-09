@@ -36,8 +36,9 @@
 </p>
 
 <!-- GitHub Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LinconAvila/LinconAvila/output/github-snake-dark.svg" alt="Snake Animation"/>
-</p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LinconAvila/LinconAvila/output/snake.svg" alt="Snake animation](https://github.com/LinconAvila/LinconAvila/blob/output/snake.svg" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6BB1E5&height=120&section=footer"/>
