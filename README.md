@@ -37,7 +37,7 @@
 
 <!-- GitHub Snake -->
 <p align="center">
-  <img src="https://github.com/LinconAvila/LinconAvila/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+ ![GitHub Snake Dark](https://github.com/LinconAvila/LinconAvila/blob/output/dist/github-snake-dark.svg)
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6BB1E5&height=120&section=footer"/>
