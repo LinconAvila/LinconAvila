@@ -27,9 +27,6 @@
   <a href="https://www.linkedin.com/in/lincon-avila-642967249" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/lincon_avila" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"  width="45" height="45"/>
-  </a>
   <a href="mailto:lincon1000ls@gmail.com" style="text-decoration:none;">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"  width="45" height="45"/>
   </a>
