@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6BB1E5&height=120&section=header"/>
 
-<h1 align="center">Hey there, I'm Lincon Avila! 👋</h1>
+<h1 align="center">Hi, I'm Lincon Avila! 👋</h1>
 <h3 align="center">Computer Engineering Student | Tech Enthusiast | Problem Solver</h3>
 
 <div align="left">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=LinconAvila&show_icons=true&hide_border=true&title_color=6BB1E5&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinconAvila&layout=compact&hide_border=true&title_color=6BB1E5&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=LinconAvila&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=6BB1E5&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinconAvila&layout=compact&hide_border=true&langs_count=8&title_color=6BB1E5&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## Techs and tools
